@@ -27,7 +27,7 @@ import main.transaction.Transaction;
 @Entity
 @Table(name = "Wallet")
 public class Wallet {
-
+//s
 	@Id
 //	@GeneratedValue(strategy = GenerationType.AUTO)
 	@Column(name = "wallet_id")

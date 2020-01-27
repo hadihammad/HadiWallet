@@ -9,6 +9,6 @@ public class HelloController1 {
 	@RequestMapping({"/","/hellow"})
 	public String hello(){
 		return "hello wallet!";
-		
+		//s
 	}
 }
