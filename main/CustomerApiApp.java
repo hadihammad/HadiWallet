@@ -9,7 +9,7 @@ public class CustomerApiApp {
 
 	public static void main(String[] args) {
 
-SpringApplication.run(CustomerApiApp.class, args);
+SpringApplication.run(CustomerApiApp.class, args);//g
 	}
 //hg
 }
